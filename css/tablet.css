@@ -36,8 +36,8 @@ article a{padding: 1em; display: inline-block;}
 header {
 	margin: 0;
 	height: 150px;
-	background: #85AB18 url(../images/interfaceImages/banner-background.png)
-	no-repeat center center: fixed;
+	background: #85AB18 url(../images/interfaceImages/banner-background.png);
+	no-repeat center center; fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
